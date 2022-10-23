@@ -1,0 +1,2 @@
+# CppLearning2
+因为各种原因还是回到了Windows的怀抱，现在属于是通过WSL在VS上开发Linux的C++程序。以前都是直接在Linux上使用VScode，所以重新建个仓库
